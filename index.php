@@ -191,7 +191,7 @@
                             <div class="project-item">
 
                                 <div class="view-button" onclick="loadProject('pG9z0CgSUqg')">
-                                    <span>WATCH NOW</span>
+                                    <span>WATCH TRAILER</span>
                                 </div>
                             </div>
                             <p>Long Dark Road</p>
@@ -211,7 +211,7 @@
                             <div class="project-item">
 
                                 <div class="view-button" onclick="loadProject('gtoro1K1oAM')">
-                                    <span>WATCH TRAILER</span>
+                                    <span>WATCH NOW</span>
                                 </div>
                             </div>
                             <p>"Glass Bridges", Redempsure</p>
