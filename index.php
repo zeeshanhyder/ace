@@ -190,11 +190,11 @@
                         <div class="project-container col-xs-12 col-sm-6 col-md-4 fading">
                             <div class="project-item">
 
-                                <div class="view-button" onclick="loadProject('oamnVjvkI68')">
+                                <div class="view-button" onclick="loadProject('pG9z0CgSUqg')">
                                     <span>WATCH NOW</span>
                                 </div>
                             </div>
-                            <p>FADING FACES</p>
+                            <p>Long Dark Road</p>
                          </div>
 
                         <div class="project-container col-xs-12 col-sm-6 col-md-4 glass">
