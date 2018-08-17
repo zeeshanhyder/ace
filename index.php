@@ -199,22 +199,22 @@
 
                         <div class="project-container col-xs-12 col-sm-6 col-md-4 glass">
                             <div class="project-item">
-                                <div class="view-button" onclick="loadProject('pkjn09QSRyk')">
+                                <div class="view-button" onclick="loadProject('2zMB6EgpA1Y')">
                                     <span>WATCH NOW</span>
                                 </div>
                             </div>
-                            <p>GLASS BRIDGES</p>
+                            <p>"Fading Faces", Saints in Vain</p>
                          </div>
 
 
                         <div class="project-container col-xs-12 col-sm-6 col-md-4 long">
                             <div class="project-item">
 
-                                <div class="view-button" onclick="loadProject('pG9z0CgSUqg')">
+                                <div class="view-button" onclick="loadProject('gtoro1K1oAM')">
                                     <span>WATCH TRAILER</span>
                                 </div>
                             </div>
-                            <p>LONG DARK ROAD</p>
+                            <p>"Glass Bridges", Redempsure</p>
                          </div>
 
 
