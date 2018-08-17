@@ -354,14 +354,14 @@ body *{
 }
 
 .fading{
-    background-image: url(assets/fading.jpg);
+    background-image: url(assets/long.jpg);
 }
 
 .glass{
-    background-image: url(assets/glass.jpg);
+    background-image: url(assets/fading.jpg);
 }
 .long{
-    background-image: url(assets/long.jpg);
+    background-image: url(assets/glass.jpg);
 }
 .hide-scroll{
     overflow: hidden;
